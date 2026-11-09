@@ -1,7 +1,7 @@
 # Dirty Dangles Privacy Policy
 
 Last updated: November 5, 2026  
-Developer: Josh Richdale  
+Developer: Gallocorn enterprises  
 Contact: [modernhackerspace@gmail.com](mailto:modernhackerspace@gmail.com)
 
 Dirty Dangles uses information to provide its hockey training features and Meta account and leaderboard integration.
@@ -34,5 +34,5 @@ This policy may be updated when the game’s features or data practices change. 
 
 ## Contact
 
-Josh Richdale  
+Gallocorn enterprises  
 [modernhackerspace@gmail.com](mailto:modernhackerspace@gmail.com)
