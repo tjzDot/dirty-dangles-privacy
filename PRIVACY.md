@@ -4,19 +4,23 @@ Last updated: November 5, 2026
 Developer: Gallocorn enterprises  
 Contact: [modernhackerspace@gmail.com](mailto:modernhackerspace@gmail.com)
 
-Dirty Dangles uses information to provide its hockey training features and Meta account and leaderboard integration.
+Dirty Dangles uses any information available through the headset solely to provide its hockey training features and Meta account and leaderboard integration.  There is absolutely not data collection, data mining, or analytics used by Gallocorn Enterprises or the dirty dangles app.   
 
 ## Information processed on your headset
 
 Gameplay statistics and training progress are stored locally in a SQLite database. Dirty Dangles does not transmit this local statistics database to the developer.
 
-Camera images and tracking data used for gameplay are processed on the headset and are not transmitted off the headset by Dirty Dangles.
+Camera images and camera tracking data used for gameplay in order to track the ball and view the play area in the game.  No camera images or tracking data are captured, tracked or used by Gallocorn enterprises for any purpose other than game play, your data is your data and we respect your privacy.  Your data is not mined, shared or analyzed.
 
 ## Meta services
 
-Dirty Dangles communicates with Meta to sign players in, verify entitlement to the game, submit and retrieve leaderboard scores, and download Meta profile pictures. These features process Meta account identifiers, profile information, scores, and leaderboard rankings.
+Dirty Dangles communicates with Meta to sign players in, verify entitlement to the game, submit and retrieve leaderboard scores, and download Meta profile pictures and usernames. These features process Meta account identifiers, profile information, scores, and leaderboard rankings.
+
+The game does access your meta friend list in order to compare local scores with other players who play the game and are identified as your 'friend' through meta services.  This is only available to the single user and gallocorn enterprises does not use or keep this information.  It is stored and available as part of the meta services only.
 
 Scores and associated player information may be visible to other players through the leaderboards. Meta manages the online leaderboard data and processes information under its own applicable privacy policies.
+
+Gallocorn enterprises may have access to this data as a developer, but only to monitor and manage high scores in case of abuse or inappropriate images/monikers that may be visible to other players.  This data is used simply to present global high scores and leaderboards and for no other purpose.
 
 ## Analytics and crash reporting
 
