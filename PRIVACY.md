@@ -1,6 +1,6 @@
 # Dirty Dangles Privacy Policy
 
-Last updated: November 5, 2026  
+Last updated: November 25, 2026  
 Developer: Gallocorn enterprises  
 Contact: [modernhackerspace@gmail.com](mailto:modernhackerspace@gmail.com)
 
